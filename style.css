@@ -8,6 +8,7 @@ h1 {
 }
 
 .div1{
+  text-align: center;
   width: 300px;
   border:2px solid blue;
   background-color: lightgrey;
