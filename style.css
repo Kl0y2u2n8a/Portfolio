@@ -11,6 +11,11 @@ h1 {
   font-family: cursive;
 }
 
+a {
+  text-transform: uppercase;
+  text-shadow: 2px 2px red;
+}
+
 .div1{
   width: 300px;
   border:2px solid blue;
