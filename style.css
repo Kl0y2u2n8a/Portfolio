@@ -11,6 +11,5 @@ h1 {
 .div1{
   width: 300px;
   height: 100px;
-  border:2px blue;
-  border-style: double;
+  border:2px double blue;
 }
