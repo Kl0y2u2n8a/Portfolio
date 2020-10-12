@@ -27,6 +27,7 @@ ul {
 
 li {
   float:left;
+  border-right: 1px solid white;
 }
 
 li a {
