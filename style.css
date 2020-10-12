@@ -16,6 +16,26 @@ a {
   text-shadow: 2px 2px red;
 }
 
+ul {
+  list-style-type: none;
+  margin: 5;
+  padding: 5;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float:left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
 .div1{
   width: 300px;
   border:2px solid blue;
