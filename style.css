@@ -74,3 +74,13 @@ li a {
   grid-template-columns: auto auto;
   justify-content: space-evenly;
 }
+
+.grid-container1{
+  display: grid;
+  grid-template-columns: auto auto auto;
+  justify-content: space-evenly;
+}
+
+img{
+  width:60%;
+}
