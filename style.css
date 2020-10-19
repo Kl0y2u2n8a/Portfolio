@@ -4,7 +4,7 @@ body{
   background-image: url("https://www.marqueesportsnetwork.com/wp-content/uploads/2020/07/wrigley-wide-.jpg");
   background-repeat: no-repeat;
   background-blend-mode: luminosity;
-  background-size:100%;
+  background-size:cover;
   background-attachment: fixed;
 }
 
